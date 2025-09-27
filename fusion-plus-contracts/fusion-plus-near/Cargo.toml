@@ -1,0 +1,3 @@
+[workspace]
+members = ["resolver", "escrow", "escrow-src", "shared"]
+resolver = "2"
