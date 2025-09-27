@@ -1,3 +1,3 @@
 [workspace]
-members = ["escrow", "escrow-src"]
+members = ["escrow", "escrow-src", "resolver", "shared"]
 resolver = "2"
